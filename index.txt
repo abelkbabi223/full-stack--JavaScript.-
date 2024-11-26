@@ -1,0 +1,41 @@
+/* variabel
+
+let first = 23;
+let second = 34;
+let sum = first + second;
+console.log(sum);
+
+*/
+
+//Datatype
+
+/*
+const person = {
+    FirstName: 'Abel',
+    Age: 20,
+    Email: '@abelkiya72@gmail.com'
+}
+console.log(person)
+console.log(typeof(person))
+*/
+
+/*
+
+const data = new Date(2010/04/04);
+console.log(typeof(data))
+
+let age = 20;
+console.log('You are old' + age)
+*/
+
+
+
+
+
+
+
+
+
+
+
+
